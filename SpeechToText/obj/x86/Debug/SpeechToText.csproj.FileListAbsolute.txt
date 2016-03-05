@@ -1,0 +1,16 @@
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\bin\Debug\example.txt
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.baml
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.g.cs
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\App.g.cs
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText_MarkupCompile.cache
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.g.resources
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.exe
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.pdb
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe.manifest
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.application
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.exe.manifest
+C:\Users\FlyingZ\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.application
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Debug\SpeechToText.exe
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Debug\SpeechToText.pdb

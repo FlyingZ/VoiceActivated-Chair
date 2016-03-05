@@ -1,0 +1,15 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+stop|stop|false
+go|go|false
+back|back|false
+left|left|false
+right|right|false
+half right|half right|false
+half left|half left|false
+Iva|Iva|false
+Iva do you love me|I have to, you built me|false
+
+Iva firefox|firefox.exe|true

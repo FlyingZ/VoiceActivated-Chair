@@ -1,0 +1,17 @@
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\bin\Release\example.txt
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\bin\Release\SpeechToText.exe.manifest
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\bin\Release\SpeechToText.application
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\bin\Release\SpeechToText.exe
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\bin\Release\SpeechToText.pdb
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.csprojResolveAssemblyReference.cache
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\MainWindow.baml
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\MainWindow.g.cs
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\App.g.cs
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText_MarkupCompile.cache
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.g.resources
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.exe.manifest
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.application
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.exe
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.pdb
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\FlyingZ\Desktop\VoiceActivated Chair\SpeechToText\obj\x86\Release\SpeechToText.csproj.ResolveComReference.cache
